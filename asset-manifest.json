@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/your-repo-name/static/css/main.da01aef3.css",
-    "main.js": "/your-repo-name/static/js/main.de9eb462.js",
-    "static/js/453.171ddc7f.chunk.js": "/your-repo-name/static/js/453.171ddc7f.chunk.js",
-    "index.html": "/your-repo-name/index.html",
-    "main.da01aef3.css.map": "/your-repo-name/static/css/main.da01aef3.css.map",
-    "main.de9eb462.js.map": "/your-repo-name/static/js/main.de9eb462.js.map",
-    "453.171ddc7f.chunk.js.map": "/your-repo-name/static/js/453.171ddc7f.chunk.js.map"
+    "main.css": "/AkhilaKumbham/Ecommerce/static/css/main.da01aef3.css",
+    "main.js": "/AkhilaKumbham/Ecommerce/static/js/main.540e6cd0.js",
+    "static/js/453.171ddc7f.chunk.js": "/AkhilaKumbham/Ecommerce/static/js/453.171ddc7f.chunk.js",
+    "index.html": "/AkhilaKumbham/Ecommerce/index.html",
+    "main.da01aef3.css.map": "/AkhilaKumbham/Ecommerce/static/css/main.da01aef3.css.map",
+    "main.540e6cd0.js.map": "/AkhilaKumbham/Ecommerce/static/js/main.540e6cd0.js.map",
+    "453.171ddc7f.chunk.js.map": "/AkhilaKumbham/Ecommerce/static/js/453.171ddc7f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.da01aef3.css",
-    "static/js/main.de9eb462.js"
+    "static/js/main.540e6cd0.js"
   ]
 }
