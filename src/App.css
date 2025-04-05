@@ -1,0 +1,60 @@
+.about-heading{
+    text-align: center;
+    font-family: cursive;
+    color:hotpink;
+}
+.navbar{
+    background-color: hotpink;
+    color:aliceblue;
+    font-family: cursive;
+
+}
+.about-data{
+
+    border:5px solid rgb(234, 147, 190);
+    border-radius: 5px;
+    margin-top: 2px;
+}
+.contact-data{
+border:5px solid rgb(242, 146, 194);
+border-radius: 5px;
+margin-top: 2px;
+}
+.login-button{
+    background-color: rgb(236, 12, 150);
+}
+.register-button{
+    background-color: rgb(236, 12, 150);
+  
+}
+@media screen and(min-width:719px){
+    .navbar{
+        width: fit-content;
+    }
+    .login-button{
+        width:50px;
+        height:50px;
+      position: relative;
+  bottom:14px;
+    }
+.register-button{
+    width:50px;
+      position: absolute;
+}
+}.btn-hotpink {
+    background-color: hotpink;
+    border-color: hotpink;
+    color: white;
+    font-weight: bold;
+  }
+  
+  .btn-hotpink:hover {
+    background-color: #ff69b4;
+    border-color: #ff69b4;
+    color: white;
+  }
+  
+  .card-hotpink-border {
+    border: 2px solid hotpink;
+  }
+  
